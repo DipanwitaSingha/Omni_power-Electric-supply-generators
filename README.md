@@ -1,5 +1,5 @@
 # Omnipower-Electrical_generators
-# ⚡ GeneratorHub — Smart Generator Sales & Rental Platform
+# ⚡AS Electrical— Smart Generator Sales & Rental Platform
 
 <p align="center">
 
